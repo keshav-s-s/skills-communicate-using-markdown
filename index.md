@@ -14,3 +14,6 @@ Initialized empty Git repository in /keshav-s-s/skills/Projects/introduction to 
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
