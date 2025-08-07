@@ -5,3 +5,5 @@
 ##### This is an H5 header.<h5>
 ###### This is an H6 header.<h6>
 This is my first time using markdown and i am experimenting with headers!!!!
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+# This is the image of a yaktocat.
